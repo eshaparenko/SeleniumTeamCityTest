@@ -1,0 +1,32 @@
+D:\Все для C#\EDX_C#_course\Assignments\Module Two Assignment\Selenium\Selenium\bin\Debug\Selenium.exe.config
+D:\Все для C#\EDX_C#_course\Assignments\Module Two Assignment\Selenium\Selenium\bin\Debug\Selenium.exe
+D:\Все для C#\EDX_C#_course\Assignments\Module Two Assignment\Selenium\Selenium\bin\Debug\Selenium.pdb
+D:\Все для C#\EDX_C#_course\Assignments\Module Two Assignment\Selenium\Selenium\bin\Debug\WebDriver.dll
+D:\Все для C#\EDX_C#_course\Assignments\Module Two Assignment\Selenium\Selenium\bin\Debug\WebDriver.Support.dll
+D:\Все для C#\EDX_C#_course\Assignments\Module Two Assignment\Selenium\Selenium\bin\Debug\WebDriver.xml
+D:\Все для C#\EDX_C#_course\Assignments\Module Two Assignment\Selenium\Selenium\bin\Debug\WebDriver.Support.xml
+D:\Все для C#\EDX_C#_course\Assignments\Module Two Assignment\Selenium\Selenium\obj\Debug\Selenium.csprojResolveAssemblyReference.cache
+D:\Все для C#\EDX_C#_course\Assignments\Module Two Assignment\Selenium\Selenium\obj\Debug\Selenium.exe
+D:\Все для C#\EDX_C#_course\Assignments\Module Two Assignment\Selenium\Selenium\obj\Debug\Selenium.pdb
+D:\ALM_UI_Automation\Selenium\Selenium test\Selenium\bin\Debug\Selenium.exe.config
+D:\ALM_UI_Automation\Selenium\Selenium test\Selenium\obj\Debug\Selenium.exe
+D:\ALM_UI_Automation\Selenium\Selenium test\Selenium\obj\Debug\Selenium.pdb
+D:\ALM_UI_Automation\Selenium\Selenium test\Selenium\bin\Debug\Selenium.exe
+D:\ALM_UI_Automation\Selenium\Selenium test\Selenium\bin\Debug\Selenium.pdb
+D:\ALM_UI_Automation\Selenium\Selenium test\Selenium\bin\Debug\WebDriver.dll
+D:\ALM_UI_Automation\Selenium\Selenium test\Selenium\bin\Debug\WebDriver.Support.dll
+D:\ALM_UI_Automation\Selenium\Selenium test\Selenium\bin\Debug\WebDriver.xml
+D:\ALM_UI_Automation\Selenium\Selenium test\Selenium\bin\Debug\WebDriver.Support.xml
+D:\ALM_UI_Automation\Selenium\Selenium test\Selenium\obj\Debug\Selenium.csprojResolveAssemblyReference.cache
+E:\ALM_UI_Automation\Selenium\Selenium test\Selenium\bin\Debug\Selenium.exe.config
+E:\ALM_UI_Automation\Selenium\Selenium test\Selenium\obj\Debug\Selenium.pdb
+E:\ALM_UI_Automation\Selenium\Selenium test\Selenium\bin\Debug\Selenium.exe
+E:\ALM_UI_Automation\Selenium\Selenium test\Selenium\bin\Debug\Selenium.pdb
+E:\ALM_UI_Automation\Selenium\Selenium test\Selenium\bin\Debug\WebDriver.dll
+E:\ALM_UI_Automation\Selenium\Selenium test\Selenium\bin\Debug\WebDriver.Support.dll
+E:\ALM_UI_Automation\Selenium\Selenium test\Selenium\bin\Debug\WebDriver.xml
+E:\ALM_UI_Automation\Selenium\Selenium test\Selenium\bin\Debug\WebDriver.Support.xml
+E:\ALM_UI_Automation\Selenium\Selenium test\Selenium\obj\Debug\Selenium.csprojResolveAssemblyReference.cache
+E:\ALM_UI_Automation\Selenium\Selenium test\Selenium\obj\Debug\Selenium.exe
+E:\ALM_UI_Automation\Selenium\Selenium test\Selenium\bin\Debug\nunit.framework.dll
+E:\ALM_UI_Automation\Selenium\Selenium test\Selenium\bin\Debug\nunit.framework.xml
